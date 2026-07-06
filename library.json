@@ -1,0 +1,18 @@
+{
+  "name": "quickMap",
+  "version": "1.0.0",
+  "description": "Ultra-fast Arduino mapping library that replaces native map() by precalculating the linear equation to completely eliminate runtime division operations.",
+  "keywords": "map, fast, quick, math, dsp, performance, esp32",
+  "authors": [
+    {
+      "name": "Holman Buenaventura",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/habuenav/quickMap.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
