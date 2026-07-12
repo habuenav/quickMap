@@ -23,6 +23,7 @@ Es ideal para aplicaciones con restricciones de tiempo crítico, como procesamie
 1. Descarga el archivo ZIP de la librería desde [GitHub](https://github.com/habuenav/quickMap).
 2. En el IDE de Arduino, ve a **Programa** > **Incluir Librería** > **Añadir biblioteca .ZIP...**.
 3. Selecciona el archivo ZIP descargado para instalar la librería.
+4. Puedes instalarlo directamente desde el Administrador de bibliotecas del IDE de Arduino; solo tienes que buscar quickMap.
 
 O también puedes extraer el archivo ZIP en tu directorio de librerías de Arduino (`libraries/`).
 
@@ -99,6 +100,7 @@ It is ideal for performance-critical applications with strict time constraints, 
 1. Download the library ZIP file from [GitHub](https://github.com/habuenav/quickMap).
 2. In the Arduino IDE, go to **Sketch** > **Include Library** > **Add .ZIP Library...**.
 3. Select the downloaded ZIP file to install the library.
+4. You can install it directly from the Arduino IDE Library Manager—just search for quickMap.
 
 Alternatively, you can extract the ZIP file directly into your Arduino libraries directory (`libraries/`).
 
